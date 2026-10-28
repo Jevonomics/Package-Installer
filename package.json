@@ -1,0 +1,9 @@
+{
+  "name": "package-installer",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Survey-to-AI-toolkit pilot for Yale students. Static frontend plus one serverless endpoint for DeepSeek-personalized recommendation text.",
+  "scripts": {
+    "dev": "npx vercel dev"
+  }
+}
